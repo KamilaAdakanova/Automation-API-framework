@@ -1,0 +1,26 @@
+{
+  "name": "automation-api-framework",
+  "version": "1.0.0",
+  "description": "automation tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KamilaAdakanova/Automation-API-framework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KamilaAdakanova/Automation-API-framework/issues"
+  },
+  "homepage": "https://github.com/KamilaAdakanova/Automation-API-framework#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.3",
+    "@babel/core": "^7.17.4",
+    "@babel/plugin-transform-runtime": "^7.17.0",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/register": "^7.17.0"
+  }
+}
